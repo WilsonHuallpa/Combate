@@ -1,0 +1,9 @@
+biblioteca.BusinessException: Error... Nivel no se encuentra en el rango permitido.
+   en biblioteca.Personaje..ctor(Decimal id, String nombre, Int16 nivel) en C:\C#\Combate\biblioteca\Personaje.cs:línea 64
+   en biblioteca.Hechicero..ctor(Decimal id, String nombre, Int16 nivel) en C:\C#\Combate\biblioteca\Hechicero.cs:línea 15
+   en CombateFinal.Program.Main(String[] args) en C:\C#\Combate\CombateFinal\Program.cs:línea 18
+System.ArgumentNullException: El valor no puede ser nulo.
+Nombre del parámetro: Error en Nombre, Incresar correctamente.
+   en biblioteca.Personaje..ctor(Decimal id, String nombre) en C:\C#\Combate\biblioteca\Personaje.cs:línea 41
+   en biblioteca.Hechicero..ctor(Decimal id, String nombre) en C:\C#\Combate\biblioteca\Hechicero.cs:línea 11
+   en CombateFinal.Program.Main(String[] args) en C:\C#\Combate\CombateFinal\Program.cs:línea 18
